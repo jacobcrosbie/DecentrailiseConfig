@@ -1,0 +1,11 @@
+spring:     
+  datasource:
+    url: jdbc:mysql://localhost:3306/infy_passenger
+    
+flights:
+  ms:
+    url: "http://localhost:4241/InfyGoBoot/flights/"
+
+tickets:
+  ms:
+    url: "http://localhost:4246/InfyGoBoot/"
